@@ -260,6 +260,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 ### Other
 - [Lys - a functional language that compiles to WebAssembly](https://github.com/lys-lang/lys)
 - [Never - statically typed, embeddable functional programming language](https://github.com/never-lang/never)
+- [Omega - research-grade systems language built from a 408-byte seed, with a scalar-subset WebAssembly back end](https://github.com/aien-dev/omega-mv/tree/main/seed/wasm)
 
 ## Tools
 
